@@ -1,5 +1,5 @@
 # python-ci-cd
-
+```
 python-ci-cd/
 │
 ├── src/
@@ -11,3 +11,4 @@ python-ci-cd/
 │       └── ci.yml     # GitHub Actions workflow file
 ├── requirements.txt   # Python dependencies
 └── README.md
+```
