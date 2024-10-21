@@ -1,4 +1,6 @@
-# python-ci-cd
+# Python CI/CD
+This is a simple Python project to demonstrate GitHub Actions for CI/CD.
+# Project Structure
 ```
 python-ci-cd/
 │
@@ -12,3 +14,7 @@ python-ci-cd/
 ├── requirements.txt   # Python dependencies
 └── README.md
 ```
+## Features
+- Automated linting with `flake8`
+- Automated testing with `pytest`
+- GitHub Actions workflow for CI
